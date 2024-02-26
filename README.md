@@ -3,12 +3,12 @@
 
 RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: [data de início do projeto]
+Data: 26/fev/2024
 Empresa: Abstergo Industries
-Responsável: [nome do responsável pelo projeto]
+Responsável: Matheus Rossini de Souza
 
 Introdução
-Este relatório destaca o processo de implementação de serviços da Amazon Web Services (AWS) na empresa Abstergo Industries, liderado por [nome do responsável pelo projeto]. O objetivo central do projeto é apresentar três serviços AWS com o propósito de reduzir custos imediatos, proporcionando benefícios significativos para a empresa.
+Este relatório destaca o processo de implementação de serviços da Amazon Web Services (AWS) na empresa Abstergo Industries, liderado por Matheus Rossini de Souza. O objetivo central do projeto é apresentar três serviços AWS com o propósito de reduzir custos imediatos, proporcionando benefícios significativos para a empresa.
 
 Descrição do Projeto
 O projeto foi dividido em três etapas distintas, cada uma com objetivos específicos para maximizar a eficiência e a economia de custos. A seguir, apresentaremos resumidamente cada etapa:
@@ -29,4 +29,4 @@ Documentação do Amazon S3
 Guia de Implantação do Amazon RDS
 Planilha de Comparação de Custos (AWS vs. Infraestrutura Atual)
 Assinatura do Responsável pelo Projeto:
-[Nome do Responsável pelo Projeto]
+Matheus Rossini de Souza
